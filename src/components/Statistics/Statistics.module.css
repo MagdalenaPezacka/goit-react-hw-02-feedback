@@ -6,7 +6,7 @@
 }
 .statistics__title {
   margin: 0;
-  padding: 25px;
+  padding: 25px 0 25px 0;
 }
 .statistics__list {
   display: flex;

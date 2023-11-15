@@ -13,7 +13,6 @@ export const Statistics = ({
   positivePercentage,
 }) => (
   <div className={css.statistics__container}>
-    <h3 className={css.statistics__title}>Statistics</h3>
     <ul className={css.statistics__list}>
       <li>Good: {good}</li>
       <li>Neutral: {neutral}</li>
